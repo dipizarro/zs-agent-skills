@@ -270,7 +270,8 @@ Request body:
 
 Response body:
 - PENDIENTE
-Parámetros de entrada
+
+## Parámetros de entrada
 
 Documentar cada parámetro:
 

@@ -380,6 +380,7 @@ El README debe permitir que otro desarrollador pueda levantar y entender el serv
 
 Debe incluir:
 
+```markdown
 # Nombre del servicio
 
 ## Descripción
@@ -413,7 +414,7 @@ Debe incluir:
 ## Troubleshooting
 
 ## Contacto / Responsable
-
+```
 
 ### Comandos de build
 
